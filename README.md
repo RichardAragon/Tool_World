@@ -105,7 +105,7 @@ This isn’t just tool-calling. It’s **tool selection by feel**, like a crafts
 ## 🚀 Want to Try It?
 
 Check out our Colab demo:  
-[👉 Launch Tool World Prototype in Colab](#) *(insert Colab link here)*
+[👉 Launch Tool World Prototype in Colab](https://colab.research.google.com/drive/1vU4dpUJbHws90GcdVF-z5PjYfat4bGSc?usp=sharing)
 
 ---
 
